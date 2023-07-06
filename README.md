@@ -1,5 +1,5 @@
 # SaaS-Video-Streaming-App
-Azure Cloud based Video Streaming Software-as-a-Service App
+Azure Cloud based Video Streaming Software-as-a-Service App.
 
 ## Business Problem
 
@@ -13,5 +13,7 @@ The company is looking for a SaaS (Software as a Service) implementation. We mus
 -> Video Transcoder
 
 -> Microsoft SQL Database
+
+
 
 
